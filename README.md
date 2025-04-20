@@ -10,6 +10,8 @@ Formatting was accomplished using [Bootstrap 5.3](https://getbootstrap.com/docs/
 
 ### To Run This Application
 
+[View Azure Web App](https://mnges-salary-prediction-front-end-bkgvb7chbsced3em.eastus-01.azurewebsites.net/)
+
 ---
 
 1. Clone this repository to local computer
